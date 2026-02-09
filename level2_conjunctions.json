@@ -1,0 +1,23 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "conjunctions",
+  "level": 2,
+  "totalWords": 3,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "aunque",
+      "english": "although, even though"
+    },
+    {
+      "id": 2,
+      "spanish": "mientras",
+      "english": "while"
+    },
+    {
+      "id": 3,
+      "spanish": "sino",
+      "english": "but rather"
+    }
+  ]
+}

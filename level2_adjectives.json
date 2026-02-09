@@ -1,0 +1,143 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "adjectives",
+  "level": 2,
+  "totalWords": 15,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "importante",
+      "english": "important",
+      "masculine": "importante",
+      "feminine": "importante",
+      "pluralMasculine": "importantes",
+      "pluralFeminine": "importantes"
+    },
+    {
+      "id": 2,
+      "spanish": "interesante",
+      "english": "interesting",
+      "masculine": "interesante",
+      "feminine": "interesante",
+      "pluralMasculine": "interesantes",
+      "pluralFeminine": "interesantes"
+    },
+    {
+      "id": 3,
+      "spanish": "cansado",
+      "english": "tired",
+      "masculine": "cansado",
+      "feminine": "cansada",
+      "pluralMasculine": "cansados",
+      "pluralFeminine": "cansadas"
+    },
+    {
+      "id": 4,
+      "spanish": "ocupado",
+      "english": "busy",
+      "masculine": "ocupado",
+      "feminine": "ocupada",
+      "pluralMasculine": "ocupados",
+      "pluralFeminine": "ocupadas"
+    },
+    {
+      "id": 5,
+      "spanish": "enfermo",
+      "english": "sick",
+      "masculine": "enfermo",
+      "feminine": "enferma",
+      "pluralMasculine": "enfermos",
+      "pluralFeminine": "enfermas"
+    },
+    {
+      "id": 6,
+      "spanish": "sano",
+      "english": "healthy",
+      "masculine": "sano",
+      "feminine": "sana",
+      "pluralMasculine": "sanos",
+      "pluralFeminine": "sanas"
+    },
+    {
+      "id": 7,
+      "spanish": "limpio",
+      "english": "clean",
+      "masculine": "limpio",
+      "feminine": "limpia",
+      "pluralMasculine": "limpios",
+      "pluralFeminine": "limpias"
+    },
+    {
+      "id": 8,
+      "spanish": "sucio",
+      "english": "dirty",
+      "masculine": "sucio",
+      "feminine": "sucia",
+      "pluralMasculine": "sucios",
+      "pluralFeminine": "sucias"
+    },
+    {
+      "id": 9,
+      "spanish": "lleno",
+      "english": "full",
+      "masculine": "lleno",
+      "feminine": "llena",
+      "pluralMasculine": "llenos",
+      "pluralFeminine": "llenas"
+    },
+    {
+      "id": 10,
+      "spanish": "vacío",
+      "english": "empty",
+      "masculine": "vacío",
+      "feminine": "vacía",
+      "pluralMasculine": "vacíos",
+      "pluralFeminine": "vacías"
+    },
+    {
+      "id": 11,
+      "spanish": "barato",
+      "english": "cheap, inexpensive",
+      "masculine": "barato",
+      "feminine": "barata",
+      "pluralMasculine": "baratos",
+      "pluralFeminine": "baratas"
+    },
+    {
+      "id": 12,
+      "spanish": "caro",
+      "english": "expensive",
+      "masculine": "caro",
+      "feminine": "cara",
+      "pluralMasculine": "caros",
+      "pluralFeminine": "caras"
+    },
+    {
+      "id": 13,
+      "spanish": "rápido",
+      "english": "fast, quick",
+      "masculine": "rápido",
+      "feminine": "rápida",
+      "pluralMasculine": "rápidos",
+      "pluralFeminine": "rápidas"
+    },
+    {
+      "id": 14,
+      "spanish": "lento",
+      "english": "slow",
+      "masculine": "lento",
+      "feminine": "lenta",
+      "pluralMasculine": "lentos",
+      "pluralFeminine": "lentas"
+    },
+    {
+      "id": 15,
+      "spanish": "mismo",
+      "english": "same",
+      "masculine": "mismo",
+      "feminine": "misma",
+      "pluralMasculine": "mismos",
+      "pluralFeminine": "mismas"
+    }
+  ]
+}

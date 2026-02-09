@@ -1,0 +1,28 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "pronouns",
+  "level": 2,
+  "totalWords": 4,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "este",
+      "english": "this (masculine)"
+    },
+    {
+      "id": 2,
+      "spanish": "esta",
+      "english": "this (feminine)"
+    },
+    {
+      "id": 3,
+      "spanish": "ese",
+      "english": "that (masculine)"
+    },
+    {
+      "id": 4,
+      "spanish": "esa",
+      "english": "that (feminine)"
+    }
+  ]
+}

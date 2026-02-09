@@ -1,0 +1,33 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "adverbs",
+  "level": 2,
+  "totalWords": 5,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "ya",
+      "english": "already, now"
+    },
+    {
+      "id": 2,
+      "spanish": "aún",
+      "english": "still, yet"
+    },
+    {
+      "id": 3,
+      "spanish": "bien",
+      "english": "well"
+    },
+    {
+      "id": 4,
+      "spanish": "mal",
+      "english": "badly, poorly"
+    },
+    {
+      "id": 5,
+      "spanish": "juntos",
+      "english": "together"
+    }
+  ]
+}

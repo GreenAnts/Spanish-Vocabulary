@@ -1,0 +1,428 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "verbs",
+  "level": 1,
+  "totalWords": 20,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "ser",
+      "english": "to be (permanent)",
+      "conjugations": {
+        "present": {
+          "yo": "soy",
+          "tú": "eres",
+          "él/ella/usted": "es",
+          "nosotros/nosotras": "somos",
+          "ellos/ellas/ustedes": "son"
+        },
+        "preterite": {
+          "yo": "fui",
+          "tú": "fuiste",
+          "él/ella/usted": "fue",
+          "nosotros/nosotras": "fuimos",
+          "ellos/ellas/ustedes": "fueron"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "spanish": "estar",
+      "english": "to be (temporary/location)",
+      "conjugations": {
+        "present": {
+          "yo": "estoy",
+          "tú": "estás",
+          "él/ella/usted": "está",
+          "nosotros/nosotras": "estamos",
+          "ellos/ellas/ustedes": "están"
+        },
+        "preterite": {
+          "yo": "estuve",
+          "tú": "estuviste",
+          "él/ella/usted": "estuvo",
+          "nosotros/nosotras": "estuvimos",
+          "ellos/ellas/ustedes": "estuvieron"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "spanish": "tener",
+      "english": "to have",
+      "conjugations": {
+        "present": {
+          "yo": "tengo",
+          "tú": "tienes",
+          "él/ella/usted": "tiene",
+          "nosotros/nosotras": "tenemos",
+          "ellos/ellas/ustedes": "tienen"
+        },
+        "preterite": {
+          "yo": "tuve",
+          "tú": "tuviste",
+          "él/ella/usted": "tuvo",
+          "nosotros/nosotras": "tuvimos",
+          "ellos/ellas/ustedes": "tuvieron"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "spanish": "hacer",
+      "english": "to do, to make",
+      "conjugations": {
+        "present": {
+          "yo": "hago",
+          "tú": "haces",
+          "él/ella/usted": "hace",
+          "nosotros/nosotras": "hacemos",
+          "ellos/ellas/ustedes": "hacen"
+        },
+        "preterite": {
+          "yo": "hice",
+          "tú": "hiciste",
+          "él/ella/usted": "hizo",
+          "nosotros/nosotras": "hicimos",
+          "ellos/ellas/ustedes": "hicieron"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "spanish": "ir",
+      "english": "to go",
+      "conjugations": {
+        "present": {
+          "yo": "voy",
+          "tú": "vas",
+          "él/ella/usted": "va",
+          "nosotros/nosotras": "vamos",
+          "ellos/ellas/ustedes": "van"
+        },
+        "preterite": {
+          "yo": "fui",
+          "tú": "fuiste",
+          "él/ella/usted": "fue",
+          "nosotros/nosotras": "fuimos",
+          "ellos/ellas/ustedes": "fueron"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "spanish": "poder",
+      "english": "to be able, can",
+      "conjugations": {
+        "present": {
+          "yo": "puedo",
+          "tú": "puedes",
+          "él/ella/usted": "puede",
+          "nosotros/nosotras": "podemos",
+          "ellos/ellas/ustedes": "pueden"
+        },
+        "preterite": {
+          "yo": "pude",
+          "tú": "pudiste",
+          "él/ella/usted": "pudo",
+          "nosotros/nosotras": "pudimos",
+          "ellos/ellas/ustedes": "pudieron"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "spanish": "decir",
+      "english": "to say, to tell",
+      "conjugations": {
+        "present": {
+          "yo": "digo",
+          "tú": "dices",
+          "él/ella/usted": "dice",
+          "nosotros/nosotras": "decimos",
+          "ellos/ellas/ustedes": "dicen"
+        },
+        "preterite": {
+          "yo": "dije",
+          "tú": "dijiste",
+          "él/ella/usted": "dijo",
+          "nosotros/nosotras": "dijimos",
+          "ellos/ellas/ustedes": "dijeron"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "spanish": "dar",
+      "english": "to give",
+      "conjugations": {
+        "present": {
+          "yo": "doy",
+          "tú": "das",
+          "él/ella/usted": "da",
+          "nosotros/nosotras": "damos",
+          "ellos/ellas/ustedes": "dan"
+        },
+        "preterite": {
+          "yo": "di",
+          "tú": "diste",
+          "él/ella/usted": "dio",
+          "nosotros/nosotras": "dimos",
+          "ellos/ellas/ustedes": "dieron"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "spanish": "ver",
+      "english": "to see",
+      "conjugations": {
+        "present": {
+          "yo": "veo",
+          "tú": "ves",
+          "él/ella/usted": "ve",
+          "nosotros/nosotras": "vemos",
+          "ellos/ellas/ustedes": "ven"
+        },
+        "preterite": {
+          "yo": "vi",
+          "tú": "viste",
+          "él/ella/usted": "vio",
+          "nosotros/nosotras": "vimos",
+          "ellos/ellas/ustedes": "vieron"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "spanish": "saber",
+      "english": "to know (facts)",
+      "conjugations": {
+        "present": {
+          "yo": "sé",
+          "tú": "sabes",
+          "él/ella/usted": "sabe",
+          "nosotros/nosotras": "sabemos",
+          "ellos/ellas/ustedes": "saben"
+        },
+        "preterite": {
+          "yo": "supe",
+          "tú": "supiste",
+          "él/ella/usted": "supo",
+          "nosotros/nosotras": "supimos",
+          "ellos/ellas/ustedes": "supieron"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "spanish": "querer",
+      "english": "to want, to love",
+      "conjugations": {
+        "present": {
+          "yo": "quiero",
+          "tú": "quieres",
+          "él/ella/usted": "quiere",
+          "nosotros/nosotras": "queremos",
+          "ellos/ellas/ustedes": "quieren"
+        },
+        "preterite": {
+          "yo": "quise",
+          "tú": "quisiste",
+          "él/ella/usted": "quiso",
+          "nosotros/nosotras": "quisimos",
+          "ellos/ellas/ustedes": "quisieron"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "spanish": "venir",
+      "english": "to come",
+      "conjugations": {
+        "present": {
+          "yo": "vengo",
+          "tú": "vienes",
+          "él/ella/usted": "viene",
+          "nosotros/nosotras": "venimos",
+          "ellos/ellas/ustedes": "vienen"
+        },
+        "preterite": {
+          "yo": "vine",
+          "tú": "viniste",
+          "él/ella/usted": "vino",
+          "nosotros/nosotras": "vinimos",
+          "ellos/ellas/ustedes": "vinieron"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "spanish": "comer",
+      "english": "to eat",
+      "conjugations": {
+        "present": {
+          "yo": "como",
+          "tú": "comes",
+          "él/ella/usted": "come",
+          "nosotros/nosotras": "comemos",
+          "ellos/ellas/ustedes": "comen"
+        },
+        "preterite": {
+          "yo": "comí",
+          "tú": "comiste",
+          "él/ella/usted": "comió",
+          "nosotros/nosotras": "comimos",
+          "ellos/ellas/ustedes": "comieron"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "spanish": "beber",
+      "english": "to drink",
+      "conjugations": {
+        "present": {
+          "yo": "bebo",
+          "tú": "bebes",
+          "él/ella/usted": "bebe",
+          "nosotros/nosotras": "bebemos",
+          "ellos/ellas/ustedes": "beben"
+        },
+        "preterite": {
+          "yo": "bebí",
+          "tú": "bebiste",
+          "él/ella/usted": "bebió",
+          "nosotros/nosotras": "bebimos",
+          "ellos/ellas/ustedes": "bebieron"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "spanish": "hablar",
+      "english": "to speak, to talk",
+      "conjugations": {
+        "present": {
+          "yo": "hablo",
+          "tú": "hablas",
+          "él/ella/usted": "habla",
+          "nosotros/nosotras": "hablamos",
+          "ellos/ellas/ustedes": "hablan"
+        },
+        "preterite": {
+          "yo": "hablé",
+          "tú": "hablaste",
+          "él/ella/usted": "habló",
+          "nosotros/nosotras": "hablamos",
+          "ellos/ellas/ustedes": "hablaron"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "spanish": "trabajar",
+      "english": "to work",
+      "conjugations": {
+        "present": {
+          "yo": "trabajo",
+          "tú": "trabajas",
+          "él/ella/usted": "trabaja",
+          "nosotros/nosotras": "trabajamos",
+          "ellos/ellas/ustedes": "trabajan"
+        },
+        "preterite": {
+          "yo": "trabajé",
+          "tú": "trabajaste",
+          "él/ella/usted": "trabajó",
+          "nosotros/nosotras": "trabajamos",
+          "ellos/ellas/ustedes": "trabajaron"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "spanish": "estudiar",
+      "english": "to study",
+      "conjugations": {
+        "present": {
+          "yo": "estudio",
+          "tú": "estudias",
+          "él/ella/usted": "estudia",
+          "nosotros/nosotras": "estudiamos",
+          "ellos/ellas/ustedes": "estudian"
+        },
+        "preterite": {
+          "yo": "estudié",
+          "tú": "estudiaste",
+          "él/ella/usted": "estudió",
+          "nosotros/nosotras": "estudiamos",
+          "ellos/ellas/ustedes": "estudiaron"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "spanish": "vivir",
+      "english": "to live",
+      "conjugations": {
+        "present": {
+          "yo": "vivo",
+          "tú": "vives",
+          "él/ella/usted": "vive",
+          "nosotros/nosotras": "vivimos",
+          "ellos/ellas/ustedes": "viven"
+        },
+        "preterite": {
+          "yo": "viví",
+          "tú": "viviste",
+          "él/ella/usted": "vivió",
+          "nosotros/nosotras": "vivimos",
+          "ellos/ellas/ustedes": "vivieron"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "spanish": "llamar",
+      "english": "to call",
+      "conjugations": {
+        "present": {
+          "yo": "llamo",
+          "tú": "llamas",
+          "él/ella/usted": "llama",
+          "nosotros/nosotras": "llamamos",
+          "ellos/ellas/ustedes": "llaman"
+        },
+        "preterite": {
+          "yo": "llamé",
+          "tú": "llamaste",
+          "él/ella/usted": "llamó",
+          "nosotros/nosotras": "llamamos",
+          "ellos/ellas/ustedes": "llamaron"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "spanish": "gustar",
+      "english": "to like (to be pleasing)",
+      "conjugations": {
+        "present": {
+          "yo": "gusto",
+          "tú": "gustas",
+          "él/ella/usted": "gusta",
+          "nosotros/nosotras": "gustamos",
+          "ellos/ellas/ustedes": "gustan"
+        },
+        "preterite": {
+          "yo": "gusté",
+          "tú": "gustaste",
+          "él/ella/usted": "gustó",
+          "nosotros/nosotras": "gustamos",
+          "ellos/ellas/ustedes": "gustaron"
+        }
+      }
+    }
+  ]
+}

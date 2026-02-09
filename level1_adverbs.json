@@ -1,0 +1,58 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "adverbs",
+  "level": 1,
+  "totalWords": 10,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "también",
+      "english": "also, too"
+    },
+    {
+      "id": 2,
+      "spanish": "tampoco",
+      "english": "neither, not either"
+    },
+    {
+      "id": 3,
+      "spanish": "solo",
+      "english": "only"
+    },
+    {
+      "id": 4,
+      "spanish": "solamente",
+      "english": "only"
+    },
+    {
+      "id": 5,
+      "spanish": "más",
+      "english": "more"
+    },
+    {
+      "id": 6,
+      "spanish": "menos",
+      "english": "less"
+    },
+    {
+      "id": 7,
+      "spanish": "nunca",
+      "english": "never"
+    },
+    {
+      "id": 8,
+      "spanish": "quizás",
+      "english": "maybe, perhaps"
+    },
+    {
+      "id": 9,
+      "spanish": "tal vez",
+      "english": "maybe, perhaps"
+    },
+    {
+      "id": 10,
+      "spanish": "todavía",
+      "english": "still, yet"
+    }
+  ]
+}

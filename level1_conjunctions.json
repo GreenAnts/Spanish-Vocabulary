@@ -1,0 +1,48 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "conjunctions",
+  "level": 1,
+  "totalWords": 8,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "y",
+      "english": "and"
+    },
+    {
+      "id": 2,
+      "spanish": "o",
+      "english": "or"
+    },
+    {
+      "id": 3,
+      "spanish": "pero",
+      "english": "but"
+    },
+    {
+      "id": 4,
+      "spanish": "porque",
+      "english": "because"
+    },
+    {
+      "id": 5,
+      "spanish": "si",
+      "english": "if"
+    },
+    {
+      "id": 6,
+      "spanish": "cuando",
+      "english": "when"
+    },
+    {
+      "id": 7,
+      "spanish": "que",
+      "english": "that"
+    },
+    {
+      "id": 8,
+      "spanish": "ni",
+      "english": "nor, neither"
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "language": "Spanish (Mexican)",
+  "level": 0,
+  "levelName": "Primer",
+  "description": "Introductory vocabulary - numbers, colors, days, months, and basic words",
+  "totalWords": 87,
+  "categories": {
+    "numbers": [
+      {
+        "id": 1,
+        "spanish": "cero",
+        "english": "zero"
+      },
+      {
+        "id": 2,
+        "spanish": "uno",
+        "english": "one"
+      },
+      {
+        "id": 3,
+        "spanish": "dos",
+        "english": "two"
+      },
+      {
+        "id": 4,
+        "spanish": "tres",
+        "english": "three"
+      },
+      {
+        "id": 5,
+        "spanish": "cuatro",
+        "english": "four"
+      },
+      {
+        "id": 6,
+        "spanish": "cinco",
+        "english": "five"
+      },
+      {
+        "id": 7,
+        "spanish": "seis",
+        "english": "six"
+      },
+      {
+        "id": 8,
+        "spanish": "siete",
+        "english": "seven"
+      },
+      {
+        "id": 9,
+        "spanish": "ocho",
+        "english": "eight"
+      },
+      {
+        "id": 10,
+        "spanish": "nueve",
+        "english": "nine"
+      },
+      {
+        "id": 11,
+        "spanish": "diez",
+        "english": "ten"
+      },
+      {
+        "id": 12,
+        "spanish": "once",
+        "english": "eleven"
+      },
+      {
+        "id": 13,
+        "spanish": "doce",
+        "english": "twelve"
+      },
+      {
+        "id": 14,
+        "spanish": "trece",
+        "english": "thirteen"
+      },
+      {
+        "id": 15,
+        "spanish": "catorce",
+        "english": "fourteen"
+      },
+      {
+        "id": 16,
+        "spanish": "quince",
+        "english": "fifteen"
+      },
+      {
+        "id": 17,
+        "spanish": "veinte",
+        "english": "twenty"
+      },
+      {
+        "id": 18,
+        "spanish": "treinta",
+        "english": "thirty"
+      },
+      {
+        "id": 19,
+        "spanish": "cuarenta",
+        "english": "forty"
+      },
+      {
+        "id": 20,
+        "spanish": "cincuenta",
+        "english": "fifty"
+      },
+      {
+        "id": 21,
+        "spanish": "cien",
+        "english": "one hundred"
+      },
+      {
+        "id": 22,
+        "spanish": "mil",
+        "english": "one thousand"
+      }
+    ],
+    "colors": [
+      {
+        "id": 23,
+        "spanish": "rojo",
+        "english": "red"
+      },
+      {
+        "id": 24,
+        "spanish": "azul",
+        "english": "blue"
+      },
+      {
+        "id": 25,
+        "spanish": "amarillo",
+        "english": "yellow"
+      },
+      {
+        "id": 26,
+        "spanish": "verde",
+        "english": "green"
+      },
+      {
+        "id": 27,
+        "spanish": "negro",
+        "english": "black"
+      },
+      {
+        "id": 28,
+        "spanish": "blanco",
+        "english": "white"
+      },
+      {
+        "id": 29,
+        "spanish": "gris",
+        "english": "gray"
+      },
+      {
+        "id": 30,
+        "spanish": "café",
+        "english": "brown"
+      },
+      {
+        "id": 31,
+        "spanish": "rosado",
+        "english": "pink"
+      },
+      {
+        "id": 32,
+        "spanish": "morado",
+        "english": "purple"
+      },
+      {
+        "id": 33,
+        "spanish": "anaranjado",
+        "english": "orange"
+      }
+    ],
+    "daysOfWeek": [
+      {
+        "id": 34,
+        "spanish": "lunes",
+        "english": "Monday"
+      },
+      {
+        "id": 35,
+        "spanish": "martes",
+        "english": "Tuesday"
+      },
+      {
+        "id": 36,
+        "spanish": "miércoles",
+        "english": "Wednesday"
+      },
+      {
+        "id": 37,
+        "spanish": "jueves",
+        "english": "Thursday"
+      },
+      {
+        "id": 38,
+        "spanish": "viernes",
+        "english": "Friday"
+      },
+      {
+        "id": 39,
+        "spanish": "sábado",
+        "english": "Saturday"
+      },
+      {
+        "id": 40,
+        "spanish": "domingo",
+        "english": "Sunday"
+      }
+    ],
+    "months": [
+      {
+        "id": 41,
+        "spanish": "enero",
+        "english": "January"
+      },
+      {
+        "id": 42,
+        "spanish": "febrero",
+        "english": "February"
+      },
+      {
+        "id": 43,
+        "spanish": "marzo",
+        "english": "March"
+      },
+      {
+        "id": 44,
+        "spanish": "abril",
+        "english": "April"
+      },
+      {
+        "id": 45,
+        "spanish": "mayo",
+        "english": "May"
+      },
+      {
+        "id": 46,
+        "spanish": "junio",
+        "english": "June"
+      },
+      {
+        "id": 47,
+        "spanish": "julio",
+        "english": "July"
+      },
+      {
+        "id": 48,
+        "spanish": "agosto",
+        "english": "August"
+      },
+      {
+        "id": 49,
+        "spanish": "septiembre",
+        "english": "September"
+      },
+      {
+        "id": 50,
+        "spanish": "octubre",
+        "english": "October"
+      },
+      {
+        "id": 51,
+        "spanish": "noviembre",
+        "english": "November"
+      },
+      {
+        "id": 52,
+        "spanish": "diciembre",
+        "english": "December"
+      }
+    ],
+    "basicWords": [
+      {
+        "id": 53,
+        "spanish": "sí",
+        "english": "yes"
+      },
+      {
+        "id": 54,
+        "spanish": "no",
+        "english": "no"
+      },
+      {
+        "id": 55,
+        "spanish": "hola",
+        "english": "hello"
+      },
+      {
+        "id": 56,
+        "spanish": "adiós",
+        "english": "goodbye"
+      },
+      {
+        "id": 57,
+        "spanish": "por favor",
+        "english": "please"
+      },
+      {
+        "id": 58,
+        "spanish": "gracias",
+        "english": "thank you"
+      },
+      {
+        "id": 59,
+        "spanish": "de nada",
+        "english": "you're welcome"
+      },
+      {
+        "id": 60,
+        "spanish": "perdón",
+        "english": "excuse me, sorry"
+      },
+      {
+        "id": 61,
+        "spanish": "buenos días",
+        "english": "good morning"
+      },
+      {
+        "id": 62,
+        "spanish": "buenas tardes",
+        "english": "good afternoon"
+      },
+      {
+        "id": 63,
+        "spanish": "buenas noches",
+        "english": "good evening, good night"
+      },
+      {
+        "id": 64,
+        "spanish": "¿Cómo estás?",
+        "english": "How are you? (informal)"
+      },
+      {
+        "id": 65,
+        "spanish": "¿Cómo está?",
+        "english": "How are you? (formal)"
+      },
+      {
+        "id": 66,
+        "spanish": "bien",
+        "english": "well, good"
+      },
+      {
+        "id": 67,
+        "spanish": "mal",
+        "english": "bad, badly"
+      },
+      {
+        "id": 68,
+        "spanish": "más o menos",
+        "english": "so-so"
+      },
+      {
+        "id": 69,
+        "spanish": "¿Qué?",
+        "english": "What?"
+      },
+      {
+        "id": 70,
+        "spanish": "¿Quién?",
+        "english": "Who?"
+      },
+      {
+        "id": 71,
+        "spanish": "¿Dónde?",
+        "english": "Where?"
+      },
+      {
+        "id": 72,
+        "spanish": "¿Cuándo?",
+        "english": "When?"
+      },
+      {
+        "id": 73,
+        "spanish": "¿Por qué?",
+        "english": "Why?"
+      },
+      {
+        "id": 74,
+        "spanish": "¿Cómo?",
+        "english": "How?"
+      },
+      {
+        "id": 75,
+        "spanish": "¿Cuánto?",
+        "english": "How much?"
+      },
+      {
+        "id": 76,
+        "spanish": "mucho",
+        "english": "much, a lot"
+      },
+      {
+        "id": 77,
+        "spanish": "poco",
+        "english": "little, few"
+      },
+      {
+        "id": 78,
+        "spanish": "muy",
+        "english": "very"
+      },
+      {
+        "id": 79,
+        "spanish": "aquí",
+        "english": "here"
+      },
+      {
+        "id": 80,
+        "spanish": "allí",
+        "english": "there"
+      },
+      {
+        "id": 81,
+        "spanish": "ahora",
+        "english": "now"
+      },
+      {
+        "id": 82,
+        "spanish": "después",
+        "english": "after, later"
+      },
+      {
+        "id": 83,
+        "spanish": "antes",
+        "english": "before"
+      },
+      {
+        "id": 84,
+        "spanish": "hoy",
+        "english": "today"
+      },
+      {
+        "id": 85,
+        "spanish": "mañana",
+        "english": "tomorrow"
+      },
+      {
+        "id": 86,
+        "spanish": "ayer",
+        "english": "yesterday"
+      },
+      {
+        "id": 87,
+        "spanish": "siempre",
+        "english": "always"
+      }
+    ]
+  }
+}

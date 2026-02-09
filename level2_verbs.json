@@ -1,0 +1,428 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "verbs",
+  "level": 2,
+  "totalWords": 20,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "conocer",
+      "english": "to know (people/places)",
+      "conjugations": {
+        "present": {
+          "yo": "conozco",
+          "tú": "conoces",
+          "él/ella/usted": "conoce",
+          "nosotros/nosotras": "conocemos",
+          "ellos/ellas/ustedes": "conocen"
+        },
+        "preterite": {
+          "yo": "conocí",
+          "tú": "conociste",
+          "él/ella/usted": "conoció",
+          "nosotros/nosotras": "conocimos",
+          "ellos/ellas/ustedes": "conocieron"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "spanish": "poner",
+      "english": "to put, to place",
+      "conjugations": {
+        "present": {
+          "yo": "pongo",
+          "tú": "pones",
+          "él/ella/usted": "pone",
+          "nosotros/nosotras": "ponemos",
+          "ellos/ellas/ustedes": "ponen"
+        },
+        "preterite": {
+          "yo": "puse",
+          "tú": "pusiste",
+          "él/ella/usted": "puso",
+          "nosotros/nosotras": "pusimos",
+          "ellos/ellas/ustedes": "pusieron"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "spanish": "salir",
+      "english": "to leave, to go out",
+      "conjugations": {
+        "present": {
+          "yo": "salgo",
+          "tú": "sales",
+          "él/ella/usted": "sale",
+          "nosotros/nosotras": "salimos",
+          "ellos/ellas/ustedes": "salen"
+        },
+        "preterite": {
+          "yo": "salí",
+          "tú": "saliste",
+          "él/ella/usted": "salió",
+          "nosotros/nosotras": "salimos",
+          "ellos/ellas/ustedes": "salieron"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "spanish": "llegar",
+      "english": "to arrive",
+      "conjugations": {
+        "present": {
+          "yo": "llego",
+          "tú": "llegas",
+          "él/ella/usted": "llega",
+          "nosotros/nosotras": "llegamos",
+          "ellos/ellas/ustedes": "llegan"
+        },
+        "preterite": {
+          "yo": "llegué",
+          "tú": "llegaste",
+          "él/ella/usted": "llegó",
+          "nosotros/nosotras": "llegamos",
+          "ellos/ellas/ustedes": "llegaron"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "spanish": "dormir",
+      "english": "to sleep",
+      "conjugations": {
+        "present": {
+          "yo": "duermo",
+          "tú": "duermes",
+          "él/ella/usted": "duerme",
+          "nosotros/nosotras": "dormimos",
+          "ellos/ellas/ustedes": "duermen"
+        },
+        "preterite": {
+          "yo": "dormí",
+          "tú": "dormiste",
+          "él/ella/usted": "durmió",
+          "nosotros/nosotras": "dormimos",
+          "ellos/ellas/ustedes": "durmieron"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "spanish": "encontrar",
+      "english": "to find",
+      "conjugations": {
+        "present": {
+          "yo": "encuentro",
+          "tú": "encuentras",
+          "él/ella/usted": "encuentra",
+          "nosotros/nosotras": "encontramos",
+          "ellos/ellas/ustedes": "encuentran"
+        },
+        "preterite": {
+          "yo": "encontré",
+          "tú": "encontraste",
+          "él/ella/usted": "encontró",
+          "nosotros/nosotras": "encontramos",
+          "ellos/ellas/ustedes": "encontraron"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "spanish": "sentir",
+      "english": "to feel",
+      "conjugations": {
+        "present": {
+          "yo": "siento",
+          "tú": "sientes",
+          "él/ella/usted": "siente",
+          "nosotros/nosotras": "sentimos",
+          "ellos/ellas/ustedes": "sienten"
+        },
+        "preterite": {
+          "yo": "sentí",
+          "tú": "sentiste",
+          "él/ella/usted": "sintió",
+          "nosotros/nosotras": "sentimos",
+          "ellos/ellas/ustedes": "sintieron"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "spanish": "pensar",
+      "english": "to think",
+      "conjugations": {
+        "present": {
+          "yo": "pienso",
+          "tú": "piensas",
+          "él/ella/usted": "piensa",
+          "nosotros/nosotras": "pensamos",
+          "ellos/ellas/ustedes": "piensan"
+        },
+        "preterite": {
+          "yo": "pensé",
+          "tú": "pensaste",
+          "él/ella/usted": "pensó",
+          "nosotros/nosotras": "pensamos",
+          "ellos/ellas/ustedes": "pensaron"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "spanish": "pedir",
+      "english": "to ask for, to request",
+      "conjugations": {
+        "present": {
+          "yo": "pido",
+          "tú": "pides",
+          "él/ella/usted": "pide",
+          "nosotros/nosotras": "pedimos",
+          "ellos/ellas/ustedes": "piden"
+        },
+        "preterite": {
+          "yo": "pedí",
+          "tú": "pediste",
+          "él/ella/usted": "pidió",
+          "nosotros/nosotras": "pedimos",
+          "ellos/ellas/ustedes": "pidieron"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "spanish": "comprar",
+      "english": "to buy",
+      "conjugations": {
+        "present": {
+          "yo": "compro",
+          "tú": "compras",
+          "él/ella/usted": "compra",
+          "nosotros/nosotras": "compramos",
+          "ellos/ellas/ustedes": "compran"
+        },
+        "preterite": {
+          "yo": "compré",
+          "tú": "compraste",
+          "él/ella/usted": "compró",
+          "nosotros/nosotras": "compramos",
+          "ellos/ellas/ustedes": "compraron"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "spanish": "vender",
+      "english": "to sell",
+      "conjugations": {
+        "present": {
+          "yo": "vendo",
+          "tú": "vendes",
+          "él/ella/usted": "vende",
+          "nosotros/nosotras": "vendemos",
+          "ellos/ellas/ustedes": "venden"
+        },
+        "preterite": {
+          "yo": "vendí",
+          "tú": "vendiste",
+          "él/ella/usted": "vendió",
+          "nosotros/nosotras": "vendimos",
+          "ellos/ellas/ustedes": "vendieron"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "spanish": "abrir",
+      "english": "to open",
+      "conjugations": {
+        "present": {
+          "yo": "abro",
+          "tú": "abres",
+          "él/ella/usted": "abre",
+          "nosotros/nosotras": "abrimos",
+          "ellos/ellas/ustedes": "abren"
+        },
+        "preterite": {
+          "yo": "abrí",
+          "tú": "abriste",
+          "él/ella/usted": "abrió",
+          "nosotros/nosotras": "abrimos",
+          "ellos/ellas/ustedes": "abrieron"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "spanish": "cerrar",
+      "english": "to close",
+      "conjugations": {
+        "present": {
+          "yo": "cierro",
+          "tú": "cierras",
+          "él/ella/usted": "cierra",
+          "nosotros/nosotras": "cerramos",
+          "ellos/ellas/ustedes": "cierran"
+        },
+        "preterite": {
+          "yo": "cerré",
+          "tú": "cerraste",
+          "él/ella/usted": "cerró",
+          "nosotros/nosotras": "cerramos",
+          "ellos/ellas/ustedes": "cerraron"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "spanish": "escribir",
+      "english": "to write",
+      "conjugations": {
+        "present": {
+          "yo": "escribo",
+          "tú": "escribes",
+          "él/ella/usted": "escribe",
+          "nosotros/nosotras": "escribimos",
+          "ellos/ellas/ustedes": "escriben"
+        },
+        "preterite": {
+          "yo": "escribí",
+          "tú": "escribiste",
+          "él/ella/usted": "escribió",
+          "nosotros/nosotras": "escribimos",
+          "ellos/ellas/ustedes": "escribieron"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "spanish": "leer",
+      "english": "to read",
+      "conjugations": {
+        "present": {
+          "yo": "leo",
+          "tú": "lees",
+          "él/ella/usted": "lee",
+          "nosotros/nosotras": "leemos",
+          "ellos/ellas/ustedes": "leen"
+        },
+        "preterite": {
+          "yo": "leí",
+          "tú": "leíste",
+          "él/ella/usted": "leyó",
+          "nosotros/nosotras": "leímos",
+          "ellos/ellas/ustedes": "leyeron"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "spanish": "entender",
+      "english": "to understand",
+      "conjugations": {
+        "present": {
+          "yo": "entiendo",
+          "tú": "entiendes",
+          "él/ella/usted": "entiende",
+          "nosotros/nosotras": "entendemos",
+          "ellos/ellas/ustedes": "entienden"
+        },
+        "preterite": {
+          "yo": "entendí",
+          "tú": "entendiste",
+          "él/ella/usted": "entendió",
+          "nosotros/nosotras": "entendimos",
+          "ellos/ellas/ustedes": "entendieron"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "spanish": "aprender",
+      "english": "to learn",
+      "conjugations": {
+        "present": {
+          "yo": "aprendo",
+          "tú": "aprendes",
+          "él/ella/usted": "aprende",
+          "nosotros/nosotras": "aprendemos",
+          "ellos/ellas/ustedes": "aprenden"
+        },
+        "preterite": {
+          "yo": "aprendí",
+          "tú": "aprendiste",
+          "él/ella/usted": "aprendió",
+          "nosotros/nosotras": "aprendimos",
+          "ellos/ellas/ustedes": "aprendieron"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "spanish": "enseñar",
+      "english": "to teach",
+      "conjugations": {
+        "present": {
+          "yo": "enseño",
+          "tú": "enseñas",
+          "él/ella/usted": "enseña",
+          "nosotros/nosotras": "enseñamos",
+          "ellos/ellas/ustedes": "enseñan"
+        },
+        "preterite": {
+          "yo": "enseñé",
+          "tú": "enseñaste",
+          "él/ella/usted": "enseñó",
+          "nosotros/nosotras": "enseñamos",
+          "ellos/ellas/ustedes": "enseñaron"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "spanish": "empezar",
+      "english": "to begin, to start",
+      "conjugations": {
+        "present": {
+          "yo": "empiezo",
+          "tú": "empiezas",
+          "él/ella/usted": "empieza",
+          "nosotros/nosotras": "empezamos",
+          "ellos/ellas/ustedes": "empiezan"
+        },
+        "preterite": {
+          "yo": "empecé",
+          "tú": "empezaste",
+          "él/ella/usted": "empezó",
+          "nosotros/nosotras": "empezamos",
+          "ellos/ellas/ustedes": "empezaron"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "spanish": "terminar",
+      "english": "to finish, to end",
+      "conjugations": {
+        "present": {
+          "yo": "termino",
+          "tú": "terminas",
+          "él/ella/usted": "termina",
+          "nosotros/nosotras": "terminamos",
+          "ellos/ellas/ustedes": "terminan"
+        },
+        "preterite": {
+          "yo": "terminé",
+          "tú": "terminaste",
+          "él/ella/usted": "terminó",
+          "nosotros/nosotras": "terminamos",
+          "ellos/ellas/ustedes": "terminaron"
+        }
+      }
+    }
+  ]
+}
