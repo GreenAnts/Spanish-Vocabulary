@@ -101,8 +101,8 @@ The core game (Levels 1–10) contains **3,000 words**. To maintain grammatical 
 
 The vocabulary data is structured as arrays of objects. Please ensure strict adherence to the schema below.
 
-**Adjectives Example:**
 ```json
+**Adjectives Example:**
 {
   "region": "MX",
   "partOfSpeech": "adjectives",
