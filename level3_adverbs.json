@@ -1,0 +1,68 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "adverbs",
+  "level": 3,
+  "totalWords": 12,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "casi",
+      "english": "almost"
+    },
+    {
+      "id": 2,
+      "spanish": "bastante",
+      "english": "quite, enough"
+    },
+    {
+      "id": 3,
+      "spanish": "demasiado",
+      "english": "too much"
+    },
+    {
+      "id": 4,
+      "spanish": "despacio",
+      "english": "slowly"
+    },
+    {
+      "id": 5,
+      "spanish": "temprano",
+      "english": "early"
+    },
+    {
+      "id": 6,
+      "spanish": "tarde",
+      "english": "late"
+    },
+    {
+      "id": 7,
+      "spanish": "pronto",
+      "english": "soon"
+    },
+    {
+      "id": 8,
+      "spanish": "lejos",
+      "english": "far"
+    },
+    {
+      "id": 9,
+      "spanish": "cerca",
+      "english": "near, close"
+    },
+    {
+      "id": 10,
+      "spanish": "arriba",
+      "english": "up, upstairs"
+    },
+    {
+      "id": 11,
+      "spanish": "abajo",
+      "english": "down, downstairs"
+    },
+    {
+      "id": 12,
+      "spanish": "adentro",
+      "english": "inside"
+    }
+  ]
+}

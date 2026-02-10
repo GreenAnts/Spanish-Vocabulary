@@ -1,0 +1,23 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "conjunctions",
+  "level": 3,
+  "totalWords": 3,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "entonces",
+      "english": "then, so"
+    },
+    {
+      "id": 2,
+      "spanish": "como",
+      "english": "as, like, since"
+    },
+    {
+      "id": 3,
+      "spanish": "pues",
+      "english": "well, then, since"
+    }
+  ]
+}

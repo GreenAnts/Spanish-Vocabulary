@@ -1,0 +1,33 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "pronouns",
+  "level": 3,
+  "totalWords": 5,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "mi",
+      "english": "my"
+    },
+    {
+      "id": 2,
+      "spanish": "tu",
+      "english": "your (informal singular)"
+    },
+    {
+      "id": 3,
+      "spanish": "su",
+      "english": "his, her, your (formal), their"
+    },
+    {
+      "id": 4,
+      "spanish": "nuestro",
+      "english": "our (masculine)"
+    },
+    {
+      "id": 5,
+      "spanish": "nuestra",
+      "english": "our (feminine)"
+    }
+  ]
+}

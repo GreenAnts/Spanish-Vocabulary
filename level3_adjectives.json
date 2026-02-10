@@ -1,0 +1,233 @@
+{
+  "language": "Spanish (Mexican)",
+  "partOfSpeech": "adjectives",
+  "level": 3,
+  "totalWords": 25,
+  "words": [
+    {
+      "id": 1,
+      "spanish": "delgado",
+      "english": "thin, slim",
+      "masculine": "delgado",
+      "feminine": "delgada",
+      "pluralMasculine": "delgados",
+      "pluralFeminine": "delgadas"
+    },
+    {
+      "id": 2,
+      "spanish": "gordo",
+      "english": "fat",
+      "masculine": "gordo",
+      "feminine": "gorda",
+      "pluralMasculine": "gordos",
+      "pluralFeminine": "gordas"
+    },
+    {
+      "id": 3,
+      "spanish": "fuerte",
+      "english": "strong",
+      "masculine": "fuerte",
+      "feminine": "fuerte",
+      "pluralMasculine": "fuertes",
+      "pluralFeminine": "fuertes"
+    },
+    {
+      "id": 4,
+      "spanish": "débil",
+      "english": "weak",
+      "masculine": "débil",
+      "feminine": "débil",
+      "pluralMasculine": "débiles",
+      "pluralFeminine": "débiles"
+    },
+    {
+      "id": 5,
+      "spanish": "guapo",
+      "english": "handsome, good-looking",
+      "masculine": "guapo",
+      "feminine": "guapa",
+      "pluralMasculine": "guapos",
+      "pluralFeminine": "guapas"
+    },
+    {
+      "id": 6,
+      "spanish": "amable",
+      "english": "kind, friendly",
+      "masculine": "amable",
+      "feminine": "amable",
+      "pluralMasculine": "amables",
+      "pluralFeminine": "amables"
+    },
+    {
+      "id": 7,
+      "spanish": "simpático",
+      "english": "nice, likeable",
+      "masculine": "simpático",
+      "feminine": "simpática",
+      "pluralMasculine": "simpáticos",
+      "pluralFeminine": "simpáticas"
+    },
+    {
+      "id": 8,
+      "spanish": "antipático",
+      "english": "unpleasant, unfriendly",
+      "masculine": "antipático",
+      "feminine": "antipática",
+      "pluralMasculine": "antipáticos",
+      "pluralFeminine": "antipáticas"
+    },
+    {
+      "id": 9,
+      "spanish": "inteligente",
+      "english": "intelligent, smart",
+      "masculine": "inteligente",
+      "feminine": "inteligente",
+      "pluralMasculine": "inteligentes",
+      "pluralFeminine": "inteligentes"
+    },
+    {
+      "id": 10,
+      "spanish": "tonto",
+      "english": "foolish, silly",
+      "masculine": "tonto",
+      "feminine": "tonta",
+      "pluralMasculine": "tontos",
+      "pluralFeminine": "tontas"
+    },
+    {
+      "id": 11,
+      "spanish": "aburrido",
+      "english": "boring, bored",
+      "masculine": "aburrido",
+      "feminine": "aburrida",
+      "pluralMasculine": "aburridos",
+      "pluralFeminine": "aburridas"
+    },
+    {
+      "id": 12,
+      "spanish": "divertido",
+      "english": "fun, entertaining",
+      "masculine": "divertido",
+      "feminine": "divertida",
+      "pluralMasculine": "divertidos",
+      "pluralFeminine": "divertidas"
+    },
+    {
+      "id": 13,
+      "spanish": "nervioso",
+      "english": "nervous",
+      "masculine": "nervioso",
+      "feminine": "nerviosa",
+      "pluralMasculine": "nerviosos",
+      "pluralFeminine": "nerviosas"
+    },
+    {
+      "id": 14,
+      "spanish": "tranquilo",
+      "english": "calm, quiet",
+      "masculine": "tranquilo",
+      "feminine": "tranquila",
+      "pluralMasculine": "tranquilos",
+      "pluralFeminine": "tranquilas"
+    },
+    {
+      "id": 15,
+      "spanish": "enojado",
+      "english": "angry",
+      "masculine": "enojado",
+      "feminine": "enojada",
+      "pluralMasculine": "enojados",
+      "pluralFeminine": "enojadas"
+    },
+    {
+      "id": 16,
+      "spanish": "contento",
+      "english": "happy, content",
+      "masculine": "contento",
+      "feminine": "contenta",
+      "pluralMasculine": "contentos",
+      "pluralFeminine": "contentas"
+    },
+    {
+      "id": 17,
+      "spanish": "preocupado",
+      "english": "worried",
+      "masculine": "preocupado",
+      "feminine": "preocupada",
+      "pluralMasculine": "preocupados",
+      "pluralFeminine": "preocupadas"
+    },
+    {
+      "id": 18,
+      "spanish": "emocionado",
+      "english": "excited",
+      "masculine": "emocionado",
+      "feminine": "emocionada",
+      "pluralMasculine": "emocionados",
+      "pluralFeminine": "emocionadas"
+    },
+    {
+      "id": 19,
+      "spanish": "famoso",
+      "english": "famous",
+      "masculine": "famoso",
+      "feminine": "famosa",
+      "pluralMasculine": "famosos",
+      "pluralFeminine": "famosas"
+    },
+    {
+      "id": 20,
+      "spanish": "pobre",
+      "english": "poor",
+      "masculine": "pobre",
+      "feminine": "pobre",
+      "pluralMasculine": "pobres",
+      "pluralFeminine": "pobres"
+    },
+    {
+      "id": 21,
+      "spanish": "dulce",
+      "english": "sweet",
+      "masculine": "dulce",
+      "feminine": "dulce",
+      "pluralMasculine": "dulces",
+      "pluralFeminine": "dulces"
+    },
+    {
+      "id": 22,
+      "spanish": "salado",
+      "english": "salty",
+      "masculine": "salado",
+      "feminine": "salada",
+      "pluralMasculine": "salados",
+      "pluralFeminine": "saladas"
+    },
+    {
+      "id": 23,
+      "spanish": "fresco",
+      "english": "fresh, cool",
+      "masculine": "fresco",
+      "feminine": "fresca",
+      "pluralMasculine": "frescos",
+      "pluralFeminine": "frescas"
+    },
+    {
+      "id": 24,
+      "spanish": "mojado",
+      "english": "wet",
+      "masculine": "mojado",
+      "feminine": "mojada",
+      "pluralMasculine": "mojados",
+      "pluralFeminine": "mojadas"
+    },
+    {
+      "id": 25,
+      "spanish": "seco",
+      "english": "dry",
+      "masculine": "seco",
+      "feminine": "seca",
+      "pluralMasculine": "secos",
+      "pluralFeminine": "secas"
+    }
+  ]
+}
