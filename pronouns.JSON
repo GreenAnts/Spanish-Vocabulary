@@ -1,0 +1,192 @@
+[
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 1,
+    "words": [
+      { "id": 1, "spanish": "yo", "english": "I" },
+      { "id": 2, "spanish": "tú", "english": "you (informal)" },
+      { "id": 3, "spanish": "él", "english": "he" },
+      { "id": 4, "spanish": "ella", "english": "she" },
+      { "id": 5, "spanish": "usted", "english": "you (formal)" },
+      { "id": 6, "spanish": "nosotros", "english": "we (masculine/mixed)" },
+      { "id": 7, "spanish": "nosotras", "english": "we (feminine)" },
+      { "id": 8, "spanish": "ustedes", "english": "you all (plural)" },
+      { "id": 9, "spanish": "ellos", "english": "they (masculine/mixed)" },
+      { "id": 10, "spanish": "ellas", "english": "they (feminine)" },
+      { "id": 11, "spanish": "me", "english": "me / myself" },
+      { "id": 12, "spanish": "te", "english": "you / yourself" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 2,
+    "words": [
+      { "id": 13, "spanish": "lo", "english": "it / him (direct object)" },
+      { "id": 14, "spanish": "la", "english": "it / her (direct object)" },
+      { "id": 15, "spanish": "le", "english": "him / her (indirect object)" },
+      { "id": 16, "spanish": "se", "english": "himself / herself / each other" },
+      { "id": 17, "spanish": "nos", "english": "us / ourselves" },
+      { "id": 18, "spanish": "les", "english": "them / you all (indirect object)" },
+      { "id": 19, "spanish": "esto", "english": "this (neutral)" },
+      { "id": 20, "spanish": "eso", "english": "that (neutral)" },
+      { "id": 21, "spanish": "mí", "english": "me (after preposition)" },
+      { "id": 22, "spanish": "ti", "english": "you (after preposition)" },
+      { "id": 23, "spanish": "nada", "english": "nothing" },
+      { "id": 24, "spanish": "todo", "english": "everything / all" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 3,
+    "words": [
+      { "id": 25, "spanish": "este", "english": "this one (masculine)" },
+      { "id": 26, "spanish": "esta", "english": "this one (feminine)" },
+      { "id": 27, "spanish": "ese", "english": "that one (masculine)" },
+      { "id": 28, "spanish": "esa", "english": "that one (feminine)" },
+      { "id": 29, "spanish": "algo", "english": "something" },
+      { "id": 30, "spanish": "alguien", "english": "someone" },
+      { "id": 31, "spanish": "nadie", "english": "no one / nobody" },
+      { "id": 32, "spanish": "conmigo", "english": "with me" },
+      { "id": 33, "spanish": "contigo", "english": "with you" },
+      { "id": 34, "spanish": "mío", "english": "mine" },
+      { "id": 35, "spanish": "tuyo", "english": "yours" },
+      { "id": 36, "spanish": "suyo", "english": "his / hers / yours / theirs" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 4,
+    "words": [
+      { "id": 37, "spanish": "estos", "english": "these (masculine)" },
+      { "id": 38, "spanish": "estas", "english": "these (feminine)" },
+      { "id": 39, "spanish": "esos", "english": "those (masculine)" },
+      { "id": 40, "spanish": "esas", "english": "those (feminine)" },
+      { "id": 41, "spanish": "quién", "english": "who" },
+      { "id": 42, "spanish": "qué", "english": "what" },
+      { "id": 43, "spanish": "cuál", "english": "which one" },
+      { "id": 44, "spanish": "míos", "english": "mine (plural)" },
+      { "id": 45, "spanish": "tuyos", "english": "yours (plural)" },
+      { "id": 46, "spanish": "suyos", "english": "his / hers / yours / theirs (plural)" },
+      { "id": 47, "spanish": "uno", "english": "one" },
+      { "id": 48, "spanish": "otro", "english": "other / another" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 5,
+    "words": [
+      { "id": 49, "spanish": "aquello", "english": "that over there (neutral)" },
+      { "id": 50, "spanish": "aquel", "english": "that one over there (masculine)" },
+      { "id": 51, "spanish": "aquella", "english": "that one over there (feminine)" },
+      { "id": 52, "spanish": "ninguno", "english": "none / not any" },
+      { "id": 53, "spanish": "alguno", "english": "some / any" },
+      { "id": 54, "spanish": "cualquiera", "english": "anyone / whichever" },
+      { "id": 55, "spanish": "muchos", "english": "many" },
+      { "id": 56, "spanish": "pocos", "english": "few" },
+      { "id": 57, "spanish": "ambos", "english": "both" },
+      { "id": 58, "spanish": "varios", "english": "various / several" },
+      { "id": 59, "spanish": "los", "english": "them (direct object masculine)" },
+      { "id": 60, "spanish": "las", "english": "them (direct object feminine)" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 6,
+    "words": [
+      { "id": 61, "spanish": "aquellos", "english": "those over there (masculine)" },
+      { "id": 62, "spanish": "aquellas", "english": "those over there (feminine)" },
+      { "id": 63, "spanish": "mía", "english": "mine (feminine)" },
+      { "id": 64, "spanish": "tuya", "english": "yours (feminine)" },
+      { "id": 65, "spanish": "suya", "english": "his/hers/yours (feminine)" },
+      { "id": 66, "spanish": "demás", "english": "the rest / others" },
+      { "id": 67, "spanish": "bastante", "english": "enough / plenty" },
+      { "id": 68, "spanish": "mismo", "english": "same one" },
+      { "id": 69, "spanish": "sí", "english": "himself/herself (prepositional)" },
+      { "id": 70, "spanish": "consigo", "english": "with himself/herself" },
+      { "id": 71, "spanish": "cada uno", "english": "each one" },
+      { "id": 72, "spanish": "quienes", "english": "who (plural)" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 7,
+    "words": [
+      { "id": 73, "spanish": "lo que", "english": "that which / what" },
+      { "id": 74, "spanish": "el que", "english": "the one that (masculine)" },
+      { "id": 75, "spanish": "la que", "english": "the one that (feminine)" },
+      { "id": 76, "spanish": "los que", "english": "the ones that (masculine)" },
+      { "id": 77, "spanish": "las que", "english": "the ones that (feminine)" },
+      { "id": 78, "spanish": "cuyo", "english": "whose (masculine)" },
+      { "id": 79, "spanish": "cuya", "english": "whose (feminine)" },
+      { "id": 80, "spanish": "cuáles", "english": "which ones" },
+      { "id": 81, "spanish": "mías", "english": "mine (plural feminine)" },
+      { "id": 82, "spanish": "tuyas", "english": "yours (plural feminine)" },
+      { "id": 83, "spanish": "suyas", "english": "theirs (plural feminine)" },
+      { "id": 84, "spanish": "semejante", "english": "such / similar one" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 8,
+    "words": [
+      { "id": 85, "spanish": "lo cual", "english": "which (relative)" },
+      { "id": 86, "spanish": "cuyos", "english": "whose (plural masculine)" },
+      { "id": 87, "spanish": "cuyas", "english": "whose (plural feminine)" },
+      { "id": 88, "spanish": "uno al otro", "english": "each other (masculine)" },
+      { "id": 89, "spanish": "una a la otra", "english": "each other (feminine)" },
+      { "id": 90, "spanish": "tal", "english": "such a one" },
+      { "id": 91, "spanish": "tales", "english": "such ones" },
+      { "id": 92, "spanish": "quienquiera", "english": "whoever" },
+      { "id": 93, "spanish": "dondequiera", "english": "wherever (used nominally)" },
+      { "id": 94, "spanish": "nosotros mismos", "english": "ourselves (emphatic)" },
+      { "id": 95, "spanish": "ustedes mismos", "english": "yourselves (emphatic)" },
+      { "id": 96, "spanish": "ellos mismos", "english": "themselves (emphatic)" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 9,
+    "words": [
+      { "id": 97, "spanish": "el cual", "english": "which / who (formal masculine)" },
+      { "id": 98, "spanish": "la cual", "english": "which / who (formal feminine)" },
+      { "id": 99, "spanish": "los cuales", "english": "which / who (plural masculine)" },
+      { "id": 100, "spanish": "las cuales", "english": "which / who (plural feminine)" },
+      { "id": 101, "spanish": "cuanto", "english": "as much as" },
+      { "id": 102, "spanish": "cuanta", "english": "as much as (feminine)" },
+      { "id": 103, "spanish": "cuantos", "english": "as many as" },
+      { "id": 104, "spanish": "cuantas", "english": "as many as (feminine)" },
+      { "id": 105, "spanish": "entrambos", "english": "both (literary/formal)" },
+      { "id": 106, "spanish": "sendos", "english": "one each" },
+      { "id": 107, "spanish": "servidor", "english": "yours truly / I (humble)" },
+      { "id": 108, "spanish": "fulano", "english": "so-and-so" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "pronouns",
+    "level": 10,
+    "words": [
+      { "id": 109, "spanish": "mengano", "english": "what's-his-name" },
+      { "id": 110, "spanish": "zutano", "english": "so-and-so (third party)" },
+      { "id": 111, "spanish": "cualquier cosa", "english": "whatever" },
+      { "id": 112, "spanish": "lo demás", "english": "the rest (abstract)" },
+      { "id": 113, "spanish": "propio", "english": "one's own" },
+      { "id": 114, "spanish": "ajeno", "english": "someone else's" },
+      { "id": 115, "spanish": "conmigo mismo", "english": "with myself" },
+      { "id": 116, "spanish": "contigo mismo", "english": "with yourself" },
+      { "id": 117, "spanish": "consigo mismo", "english": "with himself/herself" },
+      { "id": 118, "spanish": "cualesquiera", "english": "any / whichever (plural)" },
+      { "id": 119, "spanish": "quienesquiera", "english": "whoever (plural)" },
+      { "id": 120, "spanish": "don", "english": "Mr. (title often used pronominally)" }
+    ]
+  }
+]

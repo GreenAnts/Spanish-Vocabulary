@@ -37,7 +37,7 @@ The course moves through **11 distinct stages**. The difficulty curve is logarit
 ## 3. Level 0: Survival Spanish (The "Emergency Kit")
 *Note: These words do not count toward the 3,000 frequency algorithm but are prerequisites for the game mechanics.*
 
-**Goal:** Enable the user to navigate the app interface and survive a day in Mexico City immediately.
+**Goal:** Enable the user to learn the basic and neccessary words that would likely be taught in a "Spanish 101" class. These words will not neccessarily be frequency based, but should be words one would be expected to learn when first encountering a language.
 
 ### Content Checklist:
 * **Numbers:** 1-25, 30, 40, 50, ... 100, 1000.

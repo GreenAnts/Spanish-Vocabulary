@@ -1,0 +1,192 @@
+[
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 1,
+    "words": [
+      { "id": 1, "spanish": "y", "english": "and" },
+      { "id": 2, "spanish": "que", "english": "that" },
+      { "id": 3, "spanish": "o", "english": "or" },
+      { "id": 4, "spanish": "pero", "english": "but" },
+      { "id": 5, "spanish": "si", "english": "if" },
+      { "id": 6, "spanish": "como", "english": "like / as" },
+      { "id": 7, "spanish": "cuando", "english": "when" },
+      { "id": 8, "spanish": "porque", "english": "because" },
+      { "id": 9, "spanish": "ni", "english": "nor / neither" },
+      { "id": 10, "spanish": "donde", "english": "where" },
+      { "id": 11, "spanish": "así", "english": "so / thus" },
+      { "id": 12, "spanish": "también", "english": "also" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 2,
+    "words": [
+      { "id": 13, "spanish": "sino", "english": "but rather" },
+      { "id": 14, "spanish": "entonces", "english": "then / so" },
+      { "id": 15, "spanish": "aunque", "english": "although / even though" },
+      { "id": 16, "spanish": "pues", "english": "well / since" },
+      { "id": 17, "spanish": "mientras", "english": "while" },
+      { "id": 18, "spanish": "para", "english": "in order to / for" },
+      { "id": 19, "spanish": "además", "english": "besides / furthermore" },
+      { "id": 20, "spanish": "luego", "english": "then / later" },
+      { "id": 21, "spanish": "así que", "english": "so that / therefore" },
+      { "id": 22, "spanish": "o sea", "english": "in other words / I mean" },
+      { "id": 23, "spanish": "ya que", "english": "since / seeing that" },
+      { "id": 24, "spanish": "antes", "english": "before" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 3,
+    "words": [
+      { "id": 25, "spanish": "sin embargo", "english": "however / nevertheless" },
+      { "id": 26, "spanish": "después", "english": "after" },
+      { "id": 27, "spanish": "incluso", "english": "even" },
+      { "id": 28, "spanish": "tal vez", "english": "maybe" },
+      { "id": 29, "spanish": "es decir", "english": "that is to say" },
+      { "id": 30, "spanish": "por eso", "english": "that's why / therefore" },
+      { "id": 31, "spanish": "ni siquiera", "english": "not even" },
+      { "id": 32, "spanish": "siquiera", "english": "at least / even" },
+      { "id": 33, "spanish": "apenas", "english": "barely / as soon as" },
+      { "id": 34, "spanish": "en cambio", "english": "on the other hand" },
+      { "id": 35, "spanish": "por lo tanto", "english": "therefore" },
+      { "id": 36, "spanish": "hasta", "english": "until / even" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 4,
+    "words": [
+      { "id": 37, "spanish": "mientras que", "english": "whereas / while" },
+      { "id": 38, "spanish": "puesto que", "english": "since / given that" },
+      { "id": 39, "spanish": "si bien", "english": "although / even though" },
+      { "id": 40, "spanish": "salvo", "english": "except" },
+      { "id": 41, "spanish": "excepto", "english": "except" },
+      { "id": 42, "spanish": "con tal de", "english": "provided that / as long as" },
+      { "id": 43, "spanish": "debido a", "english": "due to" },
+      { "id": 44, "spanish": "a pesar de", "english": "in spite of" },
+      { "id": 45, "spanish": "por ejemplo", "english": "for example" },
+      { "id": 46, "spanish": "tampoco", "english": "neither" },
+      { "id": 47, "spanish": "aún", "english": "still / yet" },
+      { "id": 48, "spanish": "aun", "english": "even" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 5,
+    "words": [
+      { "id": 49, "spanish": "en cuanto", "english": "as soon as" },
+      { "id": 50, "spanish": "por si", "english": "in case" },
+      { "id": 51, "spanish": "tan pronto como", "english": "as soon as" },
+      { "id": 52, "spanish": "siempre que", "english": "provided that / whenever" },
+      { "id": 53, "spanish": "a menos que", "english": "unless" },
+      { "id": 54, "spanish": "para que", "english": "so that (subjunctive trigger)" },
+      { "id": 55, "spanish": "antes de que", "english": "before (subjunctive trigger)" },
+      { "id": 56, "spanish": "después de que", "english": "after (subjunctive trigger)" },
+      { "id": 57, "spanish": "conque", "english": "so / so then" },
+      { "id": 58, "spanish": "ora", "english": "now / whether" },
+      { "id": 59, "spanish": "sea", "english": "whether / be it" },
+      { "id": 60, "spanish": "por lo que", "english": "so / which is why" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 6,
+    "words": [
+      { "id": 61, "spanish": "de modo que", "english": "so that / in such a way" },
+      { "id": 62, "spanish": "de manera que", "english": "so that" },
+      { "id": 63, "spanish": "una vez que", "english": "once" },
+      { "id": 64, "spanish": "dado que", "english": "given that" },
+      { "id": 65, "spanish": "visto que", "english": "seeing that" },
+      { "id": 66, "spanish": "a fin de que", "english": "in order that" },
+      { "id": 67, "spanish": "a no ser que", "english": "unless" },
+      { "id": 68, "spanish": "por más que", "english": "no matter how much" },
+      { "id": 69, "spanish": "en caso de que", "english": "in case" },
+      { "id": 70, "spanish": "como si", "english": "as if" },
+      { "id": 71, "spanish": "no obstante", "english": "however / notwithstanding" },
+      { "id": 72, "spanish": "por el contrario", "english": "on the contrary" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 7,
+    "words": [
+      { "id": 73, "spanish": "al contrario", "english": "on the contrary" },
+      { "id": 74, "spanish": "más bien", "english": "rather" },
+      { "id": 75, "spanish": "e", "english": "and (before 'i' sound)" },
+      { "id": 76, "spanish": "u", "english": "or (before 'o' sound)" },
+      { "id": 77, "spanish": "siquiera", "english": "even if / at least" },
+      { "id": 78, "spanish": "bien... bien...", "english": "either... or..." },
+      { "id": 79, "spanish": "ya... ya...", "english": "now... now..." },
+      { "id": 80, "spanish": "sea... sea...", "english": "whether... or..." },
+      { "id": 81, "spanish": "sino que", "english": "but rather (introduces clause)" },
+      { "id": 82, "spanish": "a saber", "english": "namely" },
+      { "id": 83, "spanish": "esto es", "english": "that is" },
+      { "id": 84, "spanish": "mejor dicho", "english": "or rather / better said" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 8,
+    "words": [
+      { "id": 85, "spanish": "ahora bien", "english": "however / having said that" },
+      { "id": 86, "spanish": "con todo", "english": "nevertheless / even so" },
+      { "id": 87, "spanish": "de todos modos", "english": "anyway" },
+      { "id": 88, "spanish": "de todas formas", "english": "in any case" },
+      { "id": 89, "spanish": "en cualquier caso", "english": "in any case" },
+      { "id": 90, "spanish": "por consiguiente", "english": "consequently" },
+      { "id": 91, "spanish": "asimismo", "english": "likewise" },
+      { "id": 92, "spanish": "igualmente", "english": "equally / likewise" },
+      { "id": 93, "spanish": "encima", "english": "on top of that / to boot" },
+      { "id": 94, "spanish": "aparte", "english": "apart from / besides" },
+      { "id": 95, "spanish": "siquiera", "english": "even" },
+      { "id": 96, "spanish": "luego que", "english": "as soon as" }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 9,
+    "words": [
+      { "id": 97, "spanish": "a condición de que", "english": "on condition that" },
+      { "id": 98, "spanish": "en el supuesto de que", "english": "assuming that" },
+      { "id": 99, "spanish": "con tal de que", "english": "provided that" },
+      { "id": 100, "spanish": "siempre y cuando", "english": "provided that / as long as" },
+      { "id": 101, "spanish": "aun cuando", "english": "even when" },
+      { "id": 102, "spanish": "así como", "english": "just as / as well as" },
+      { "id": 103, "spanish": "por mucho que", "english": "no matter how much" },
+      { "id": 104, "spanish": "por muy... que...", "english": "no matter how..." },
+      { "id": 105, "spanish": "con objeto de que", "english": "with the purpose of" },
+      { "id": 106, "spanish": "de suerte que", "english": "so that" },
+      { "id": 107, "spanish": "de forma que", "english": "so that" },
+      { "id": 108, "spanish": "cuanto más... más...", "english": "the more... the more..." }
+    ]
+  },
+  {
+    "region": "MX",
+    "partOfSpeech": "conjunctions",
+    "level": 10,
+    "words": [
+      { "id": 109, "spanish": "a medida que", "english": "as / to the extent that" },
+      { "id": 110, "spanish": "conforme", "english": "as / according to" },
+      { "id": 111, "spanish": "según", "english": "as / according to" },
+      { "id": 112, "spanish": "a fuerza de", "english": "by dint of" },
+      { "id": 113, "spanish": "de ahí que", "english": "hence / that's why" },
+      { "id": 114, "spanish": "mal que", "english": "although / even if" },
+      { "id": 115, "spanish": "ya que", "english": "since" },
+      { "id": 116, "spanish": "bien que", "english": "although (literary)" },
+      { "id": 117, "spanish": "máxime", "english": "especially since" },
+      { "id": 118, "spanish": "amen de", "english": "besides / in addition to" },
+      { "id": 119, "spanish": "so pena de", "english": "under penalty of" },
+      { "id": 120, "spanish": "quiera... o no...", "english": "whether... or not" }
+    ]
+  }
+]

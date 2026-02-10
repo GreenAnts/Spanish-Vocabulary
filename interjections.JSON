@@ -1,0 +1,132 @@
+[
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 1,
+      "words": [
+        { "id": 1, "spanish": "bueno", "english": "well (filler/answering phone)" },
+        { "id": 2, "spanish": "a ver", "english": "let's see" },
+        { "id": 3, "spanish": "claro", "english": "of course" },
+        { "id": 4, "spanish": "oye", "english": "hey / listen" },
+        { "id": 5, "spanish": "mira", "english": "look" },
+        { "id": 6, "spanish": "ay", "english": "oh / ouch" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 2,
+      "words": [
+        { "id": 7, "spanish": "perdón", "english": "sorry / excuse me" },
+        { "id": 8, "spanish": "cuidado", "english": "watch out / careful" },
+        { "id": 9, "spanish": "dale", "english": "go ahead / okay" },
+        { "id": 10, "spanish": "exacto", "english": "exactly" },
+        { "id": 11, "spanish": "vaya", "english": "wow / well" },
+        { "id": 12, "spanish": "alto", "english": "stop / halt" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 3,
+      "words": [
+        { "id": 13, "spanish": "mande", "english": "what? / tell me (polite Mexican standard)" },
+        { "id": 14, "spanish": "órale", "english": "wow / okay / let's go (Mexican)" },
+        { "id": 15, "spanish": "fíjate", "english": "look / imagine that" },
+        { "id": 16, "spanish": "dios mío", "english": "oh my god" },
+        { "id": 17, "spanish": "ojalá", "english": "hopefully / I hope so" },
+        { "id": 18, "spanish": "salud", "english": "bless you / cheers" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 4,
+      "words": [
+        { "id": 19, "spanish": "ándale", "english": "come on / hurry up / that's right (Mexican)" },
+        { "id": 20, "spanish": "híjole", "english": "wow / jeez / oh boy (Mexican)" },
+        { "id": 21, "spanish": "bienvenido", "english": "welcome" },
+        { "id": 22, "spanish": "quizás", "english": "maybe / perhaps" },
+        { "id": 23, "spanish": "basta", "english": "enough" },
+        { "id": 24, "spanish": "ánimo", "english": "cheer up / let's go" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 5,
+      "words": [
+        { "id": 25, "spanish": "aguas", "english": "watch out / careful (Mexican)" },
+        { "id": 26, "spanish": "neta", "english": "really? / for real? (Mexican)" },
+        { "id": 27, "spanish": "qué va", "english": "no way / nonsense" },
+        { "id": 28, "spanish": "guau", "english": "wow" },
+        { "id": 29, "spanish": "obvio", "english": "obviously" },
+        { "id": 30, "spanish": "por supuesto", "english": "of course" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 6,
+      "words": [
+        { "id": 31, "spanish": "no manches", "english": "no way / come on (Mexican, mild slang)" },
+        { "id": 32, "spanish": "chale", "english": "damn / bummer (Mexican)" },
+        { "id": 33, "spanish": "lástima", "english": "what a pity / shame" },
+        { "id": 34, "spanish": "menos mal", "english": "thank goodness / luckily" },
+        { "id": 35, "spanish": "qué padre", "english": "how cool (Mexican)" },
+        { "id": 36, "spanish": "uy", "english": "oops / whoa" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 7,
+      "words": [
+        { "id": 37, "spanish": "en fin", "english": "anyway / in short" },
+        { "id": 38, "spanish": "total", "english": "so / in the end" },
+        { "id": 39, "spanish": "caray", "english": "darn / gosh" },
+        { "id": 40, "spanish": "ni modo", "english": "oh well / nothing strictly to be done (Mexican)" },
+        { "id": 41, "spanish": "oiga", "english": "listen / hey (formal)" },
+        { "id": 42, "spanish": "permiso", "english": "excuse me (passing by)" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 8,
+      "words": [
+        { "id": 43, "spanish": "a poco", "english": "really? / you don't say? (Mexican)" },
+        { "id": 44, "spanish": "socorro", "english": "help" },
+        { "id": 45, "spanish": "bravo", "english": "bravo / well done" },
+        { "id": 46, "spanish": "adelante", "english": "come in / go ahead" },
+        { "id": 47, "spanish": "hombre", "english": "man! / come on! (emphasis)" },
+        { "id": 48, "spanish": "genial", "english": "great / brilliant" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 9,
+      "words": [
+        { "id": 49, "spanish": "qué hubo", "english": "what's up (Mexican: ¿Quiúbole?)" },
+        { "id": 50, "spanish": "cielos", "english": "heavens / good grief" },
+        { "id": 51, "spanish": "diablos", "english": "damn / heck" },
+        { "id": 52, "spanish": "suerte", "english": "good luck" },
+        { "id": 53, "spanish": "cállate", "english": "shut up" },
+        { "id": 54, "spanish": "estupendo", "english": "stupendous / great" }
+      ]
+    },
+    {
+      "region": "MX",
+      "partOfSpeech": "interjections",
+      "level": 10,
+      "words": [
+        { "id": 55, "spanish": "chido", "english": "cool (Mexican)" },
+        { "id": 56, "spanish": "cámara", "english": "agreed / it's a deal (Mexican slang)" },
+        { "id": 57, "spanish": "maldición", "english": "damn it" },
+        { "id": 58, "spanish": "disculpa", "english": "apologies / excuse me" },
+        { "id": 59, "spanish": "enhorabuena", "english": "congratulations" },
+        { "id": 60, "spanish": "arre", "english": "let's go / agreed (Northern Mexico)" }
+      ]
+    }
+  ]
